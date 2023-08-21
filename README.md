@@ -20,7 +20,7 @@ The project consists of the following key components:
 
 2.  Notebook: The entire project, from data preprocessing to model training and evaluation, is documented in a Jupyter Notebook. You can view the complete step-by-step process and analysis in our notebook hosted on GitHub.
 
-    [View the Jupyter Notebook]([https://github.com/your-username/your-repository/blob/main/MAGIC_Gamma_Telescope_Classifier.ipynb](https://github.com/justA-Noobdev/MAGIC-gamma-telescope/blob/main/MAGIC.ipynb)
+    [View the Jupyter Notebook](https://github.com/justA-Noobdev/MAGIC-gamma-telescope/blob/main/MAGIC.ipynb)
 
 Approach and Results
 --------------------
